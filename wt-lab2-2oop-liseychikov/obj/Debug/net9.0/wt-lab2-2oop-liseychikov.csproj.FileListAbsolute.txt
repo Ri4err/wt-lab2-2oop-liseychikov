@@ -1,0 +1,14 @@
+C:\УЧЕБА\WT\wt-lab2-2oop-liseychikov\wt-lab2-2oop-liseychikov\bin\Debug\net9.0\wt-lab2-2oop-liseychikov.exe
+C:\УЧЕБА\WT\wt-lab2-2oop-liseychikov\wt-lab2-2oop-liseychikov\bin\Debug\net9.0\wt-lab2-2oop-liseychikov.deps.json
+C:\УЧЕБА\WT\wt-lab2-2oop-liseychikov\wt-lab2-2oop-liseychikov\bin\Debug\net9.0\wt-lab2-2oop-liseychikov.runtimeconfig.json
+C:\УЧЕБА\WT\wt-lab2-2oop-liseychikov\wt-lab2-2oop-liseychikov\bin\Debug\net9.0\wt-lab2-2oop-liseychikov.dll
+C:\УЧЕБА\WT\wt-lab2-2oop-liseychikov\wt-lab2-2oop-liseychikov\bin\Debug\net9.0\wt-lab2-2oop-liseychikov.pdb
+C:\УЧЕБА\WT\wt-lab2-2oop-liseychikov\wt-lab2-2oop-liseychikov\obj\Debug\net9.0\wt-lab2-2oop-liseychikov.GeneratedMSBuildEditorConfig.editorconfig
+C:\УЧЕБА\WT\wt-lab2-2oop-liseychikov\wt-lab2-2oop-liseychikov\obj\Debug\net9.0\wt-lab2-2oop-liseychikov.AssemblyInfoInputs.cache
+C:\УЧЕБА\WT\wt-lab2-2oop-liseychikov\wt-lab2-2oop-liseychikov\obj\Debug\net9.0\wt-lab2-2oop-liseychikov.AssemblyInfo.cs
+C:\УЧЕБА\WT\wt-lab2-2oop-liseychikov\wt-lab2-2oop-liseychikov\obj\Debug\net9.0\wt-lab2-2oop-liseychikov.csproj.CoreCompileInputs.cache
+C:\УЧЕБА\WT\wt-lab2-2oop-liseychikov\wt-lab2-2oop-liseychikov\obj\Debug\net9.0\wt-lab2-2oop-liseychikov.dll
+C:\УЧЕБА\WT\wt-lab2-2oop-liseychikov\wt-lab2-2oop-liseychikov\obj\Debug\net9.0\refint\wt-lab2-2oop-liseychikov.dll
+C:\УЧЕБА\WT\wt-lab2-2oop-liseychikov\wt-lab2-2oop-liseychikov\obj\Debug\net9.0\wt-lab2-2oop-liseychikov.pdb
+C:\УЧЕБА\WT\wt-lab2-2oop-liseychikov\wt-lab2-2oop-liseychikov\obj\Debug\net9.0\wt-lab2-2oop-liseychikov.genruntimeconfig.cache
+C:\УЧЕБА\WT\wt-lab2-2oop-liseychikov\wt-lab2-2oop-liseychikov\obj\Debug\net9.0\ref\wt-lab2-2oop-liseychikov.dll
